@@ -1,6 +1,6 @@
-# Invidious
+GameHub
 
-## Invidious is an alternative front-end to YouTube
+Welcome to GameHub! I created this website using Github! :D
 
 - Audio-only mode (and no need to keep window open on mobile)
 - [Free software](https://github.com/omarroth/invidious) (AGPLv3 licensed)
